@@ -1,1 +1,4 @@
-# Realistic rainy traffic highway simulation built with HTML5 Canvas
+# Rainy Highway Simulator
+
+## Live Demo
+https://ravinderozha.github.io/rainy-highway-simulator/
