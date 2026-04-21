@@ -8,9 +8,10 @@ https://ravinderozha.github.io/rainy-highway-simulator/
 ## Features
 - Moving traffic
 - Rain effects
-- Responsive full screen
+- Responsive full scree
 - Scenic environment
 - Smooth animation
+- Sunny Day
 
 ## Built By
 Ravinder Ozha
